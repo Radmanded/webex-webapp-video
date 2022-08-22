@@ -38,7 +38,7 @@ git clone https://github.com/Radmanded/webex-spaceWidget.git
 ```
 <br/>
 
-2. Change to the onebank folder `cd /webex-spaceWidget/onebank` 
+2. Change to the onebank folder `cd /webex-spaceWidget` 
 
 <br/>
 
