@@ -7,7 +7,7 @@ Take a standard HTML web page and embed a Webex SDK 'Space Widget' to easily ena
  
 [Add a gif of end product]: #  
 
-### Pre-Reqs
+## Pre-Reqs
 - Git: https://git-scm.com/
 - 2 Webex accounts (One for testing)
 
@@ -34,10 +34,11 @@ or https://developer.webex.com/docs/getting-started
 1. Clone the repository with git 
 ```
 git clone https://github.com/Radmanded/webex-spaceWidget.git
-cd /webex-spaceWidget/onebank
-```
 
-2. In the `/devnet-express-cloud-collab-code-samples/itp/collab-spark-video-sdk-widget-meet/onebank` folder
+```
+<br/>
+
+2. Change to the onebank folder `cd /webex-spaceWidget/onebank` 
 
 <br/>
 
@@ -48,8 +49,11 @@ cd /webex-spaceWidget/onebank
 
 <br/>
 
-4. Next make changes to onebank.html in your editor
+4. Next make changes to `onebank.html` in your editor
   - Find Line 69, which defines the blue button on the page labeled 'Ask Sandy':
+ 
+ <br/>
+ 
  `<input type='submit' value='Ask Sandy' name='submit' class='submit' onclick='' />`
 
 <br/>
@@ -70,20 +74,24 @@ cd /webex-spaceWidget/onebank
 ```
 <br/>
 
-#### Test Configuration
+## Test Configuration
 
 1. Open the onebank.html file in your browser
+
 <br/>
+
 2. Right-click on the 'Ask Sandy' button, and choose Inspect Element
 
 > Note: You should see the window.open JavaScript code you entered above:
 
 <br/>
+
 3. Click 'Ask Sandy'
 
 <br/>
 
 4. Check to see that your pop-up window appears, and automatically starts loading the Webex Space Widget. Collaborate away!
+
 </details>
 
 
