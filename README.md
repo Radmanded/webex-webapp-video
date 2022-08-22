@@ -2,9 +2,11 @@
 # Embedding a Webex SDK video 'Space Widget' into a web app
 
 Tell them what they are going to do...
-
+![img.png](img.png)
 Take a standard HTML web page and embed a Webex SDK 'Space Widget' to easily enable Webex collaboration.
- 
+
+End result 
+![img_2.png](img_2.png)
 [Add a gif of end product]: #  
 
 ## Pre-Reqs
@@ -94,4 +96,7 @@ git clone https://github.com/Radmanded/webex-spaceWidget.git
 
 </details>
 
+## Troubleshooting Steps
 
+1. If the pop-up window does not appear, try another browser.
+2. 
