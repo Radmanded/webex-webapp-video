@@ -7,7 +7,9 @@ Take a standard HTML web page and embed a Webex SDK 'Space Widget' to easily ena
 
 End result 
 ![img_2.png](img_2.png)
-[Add a gif of end product]: #  
+
+![image](https://user-images.githubusercontent.com/9085386/185985726-b880cf43-6649-4f86-9adc-5e9b5ff41dfd.png)
+
 
 ## Pre-Reqs
 - Git: https://git-scm.com/
